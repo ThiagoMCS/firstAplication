@@ -43,9 +43,9 @@ function fazerPergunta() {
 
   elementoResposta.style.opacity = 1;
 
-  // sumir a resposta depois de 3 segundos
+  // sumir a resposta depois de 5 segundos
   setTimeout(function() {
     elementoResposta.style.opacity = 0;
     buttonPerguntar.removeAttribute("disabled")
-  }, 3000)
+  }, 5000)
 }
