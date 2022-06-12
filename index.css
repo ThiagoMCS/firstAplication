@@ -10,9 +10,10 @@ body {
 }
 
 #container {
-  margin-top: 100px;
+  margin-top: 80px;
   width: 80%;
   max-width: 400px;
+  max-height: 70%;
   margin-inline: auto;
 }
 
@@ -24,7 +25,7 @@ h1 {
 }
 
 img {
-  width: 60%;
+  width: 50%;
 }
 
 p {
@@ -75,8 +76,3 @@ button:hover {
   margin-bottom: 10px;
   text-shadow: 2px 2px 10px #fcfcfc;
 }
-
-/*https://st.depositphotos.com/1653909/4590/i/600/depositphotos_45904447-stock-photo-fortune-tellers-crystal-ball.jpg
-
-https://static7.depositphotos.com/1000422/765/v/600/depositphotos_7659001-stock-illustration-crystal-ball.jpg
-*/
